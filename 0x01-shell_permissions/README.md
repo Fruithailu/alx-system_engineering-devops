@@ -13,3 +13,4 @@ script that adds execute permission to all subdirectories of the current directo
 script that creates a directory called my_dir with permissions 751 in the working directory.
  script that changes the group owner to school for the file hello
 script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
+script that changes the owner and the group owner of _hello to vincent and staff respectively.
