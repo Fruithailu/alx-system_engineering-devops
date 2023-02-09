@@ -17,4 +17,3 @@ Task 15. Lets move
 Task 16. Clean Emacs
 Task 17. Tree
 Task 18. Life is a series of commas, not periods
-Task 0. My name is Betty on 0x01-shell permissions
