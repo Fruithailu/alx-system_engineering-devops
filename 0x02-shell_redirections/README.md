@@ -17,3 +17,4 @@ Display the number of lines that contain the pattern “bin” in the file /etc/
 display line containing the pattern "root" and 3 line after them in the file /etc/passwd
 display all the lines in the file /etc/passwd that do not contain the pattern "bin"
 display all lines of the file /etc/ssh/sshd_config starting with letter
+replace all characters A and C from input to Z and e respectively
