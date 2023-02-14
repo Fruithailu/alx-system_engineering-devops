@@ -24,3 +24,4 @@ script that displays all user and their home directories, sort by users
 command that find all empty files and directories in the current directory and all sub-directories
 script that lists all files with a .gif extension in the current directory and all its sub-directories
 create a script that decodes acrostics that use the first letter of each line
+a script that pares web servers logs inTSV fromt as input and display the 11 hosts or ip add which did the most requests
