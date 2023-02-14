@@ -16,3 +16,4 @@ script that takes a list of words as input and prints only words that appear exa
 Display the number of lines that contain the pattern “bin” in the file /etc/passwd
 display line containing the pattern "root" and 3 line after them in the file /etc/passwd
 display all the lines in the file /etc/passwd that do not contain the pattern "bin"
+display all lines of the file /etc/ssh/sshd_config starting with letter
