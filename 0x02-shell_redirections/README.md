@@ -15,3 +15,4 @@ Display lines containing the pattern “root” from the file /etc/passwd
 script that takes a list of words as input and prints only words that appear exactly once.
 Display the number of lines that contain the pattern “bin” in the file /etc/passwd
 display line containing the pattern "root" and 3 line after them in the file /etc/passwd
+display all the lines in the file /etc/passwd that do not contain the pattern "bin"
